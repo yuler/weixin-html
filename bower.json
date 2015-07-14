@@ -1,0 +1,21 @@
+{
+  "name": "weixin-html",
+  "version": "0.0.0",
+  "authors": [
+    "joyful4yu <joyful4yu@gmail.com>"
+  ],
+  "description": "微信静态页面",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slideout.js": "~0.1.9",
+    "semantic-ui": "~2.0.3"
+  }
+}
